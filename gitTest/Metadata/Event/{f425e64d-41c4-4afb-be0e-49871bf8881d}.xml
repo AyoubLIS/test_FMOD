@@ -118,10 +118,10 @@
 	</object>
 	<object class="MixerBusPanner" id="{ff5c847e-3537-4959-beb8-1a561ced77d5}">
 		<property name="surroundPanDirection">
-			<value>-9.31932163</value>
+			<value>79.6858826</value>
 		</property>
 		<property name="surroundPanExtent">
-			<value>290.391541</value>
+			<value>46.2572174</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{d9326a40-7a11-4b65-9cd1-7b7fc9f38c90}" />
